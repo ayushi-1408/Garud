@@ -24,5 +24,12 @@
 .login-form-1 .btnSubmit{
     font-weight: 600;
     color: #fff;
-    background-color: #3c1053;
+    background-color: black;
+}
+.login-form-2 img{
+    position: relative;
+    top: -70px;
+    width: 750px;
+    height: 600px;
+    margin-left: 10px;
 }
